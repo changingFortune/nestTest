@@ -78,3 +78,4 @@ reset 1
 reset 2
 reset 5
 reset 6
+reset 7
